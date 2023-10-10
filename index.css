@@ -787,7 +787,7 @@ body {
 	}
 
 	.grid-container--tech > picture {
-		grid-column: span 4;
+		grid-column: span 2;
 		align-self: end;
 		max-width: 100%;
 	}
